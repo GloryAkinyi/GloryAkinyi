@@ -1,4 +1,4 @@
-### Hi there 👋 am Glo!
+### Hi there 👋 I am Glo!
 
 <!--
 **GloryAkinyi/GloryAkinyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
