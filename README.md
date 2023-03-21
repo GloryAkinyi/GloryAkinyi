@@ -1,7 +1,7 @@
 ### Hi there 👋 am Glo!
 
 # 💫 About Me:
-I am currently working on developing robust and reliable systems that are user friendly.<br>Fun fact about me is that i am very passionate about programming  and developing systems.
+I am currently working on developing robust and reliable systems that are user friendly.<br>Fun fact about myself is that i am very passionate about programming  and developing systems.
 
 
 # 💻 Tech Stack:
