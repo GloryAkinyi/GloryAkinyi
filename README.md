@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 # Software Engineer|Full Stack Developer
-🚀 Passionate about creating clean, efficient, and scalable software solutions. Experienced in Html, css, Bootstrap, Python, Django JavaScript, Java, C, C++, Springboot,Kotlin.</br>
+🚀 Passionate about creating clean, efficient, and scalable software solutions</br>
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.</br>
 🛠️ Proficient with Git </br>
 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together! </br>
