@@ -1,7 +1,12 @@
 ### Hi there 👋 am Glo!
 
 # 💫 About Me:
-I am currently working on developing robust and reliable systems that are user friendly.<br>Fun fact about myself is that i am very passionate about programming  and developing systems.
+# Software Engineer|Full Stack Developer
+🚀 Passionate about creating clean, efficient, and scalable software solutions. Experienced in Html, css, Bootstrap, Python, Django JavaScript, Java, C, C++, Springboot,Kotlin.
+🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.
+🛠️ Proficient with Git
+🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
+
 
 
 # 💻 Tech Stack:
