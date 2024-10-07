@@ -1,7 +1,7 @@
 ### Hi there 👋 am Glo!
 
 # 💫 About Me:
-# Software Engineer|Full Stack Developer
+# Software Engineer | Problem Solver | Tech Enthusiast
 🚀 Passionate about creating clean, efficient, and scalable software solutions</br>
 🌐 Specialized in web development, android development, machine learning. Constantly exploring new technologies and frameworks.</br>
 🛠️ Proficient with Git </br>
