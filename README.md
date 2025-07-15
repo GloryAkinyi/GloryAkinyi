@@ -1,29 +1,43 @@
-### Hi there 👋 I'm Glo — aka your favorite dev who's always in debug mode 🐞
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Glo+👋;Software+Engineer+%F0%9F%A7%A0;Fullstack+Developer+%F0%9F%92%BB;Let’s+build+something+awesome!&font=Fira+Code&center=true&width=440&height=45&color=FF6F91&vCenter=true&size=22" />
+</p>
 
-# 💫 About Me:
-🧠 **Software Engineer | Tech Explorer | Coffee-powered Coder**  
-🚀 Building things for the web, Android & machines that learn 🤖  
-🌍 Based in Kenya 🌱  
-💻 Git is my diary. Bugs are my teachers. Stack Overflow is my best friend.  
-💬 Let’s connect and collaborate on projects that *wow* people.
-
----
-
-### 📌 Currently Working On:
-- ⚙️ Improving my **system design** and backend architecture skills
-- 📱 Building and publishing full-stack **mobile & web apps**
-- 🤖 Diving deeper into **AI/ML** models and **Data Science**
-- ✍️ Writing clean, testable, and scalable code
-- 🌍 Making open-source contributions
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+</p>
 
 ---
 
-### 🎯 2025 Goals:
-- ✅ Launch a SaaS app 🔐  
-- 🔼 Contribute to 10+ open source projects  
-- 📘 Publish articles/tutorials on real-world tech stacks  
-- 🌍 Host my first tech workshop or local dev session  
-- 🌟 Reach 1000+ GitHub followers (help me out 😉)
+### 💫 About Me
+
+🌍 I'm based in **Kenya**  
+💻 I code in **Python, JavaScript, Kotlin, Dart, Java, C++**  
+🧠 I build **Web apps, Android apps, and AI projects**  
+⚡ Fun fact: I debug better with coffee ☕ and memes 😄  
+💬 Let's connect and collaborate!  
+
+---
+
+## 🎯 2025 Goals
+```diff
++ 🚀 Launch a SaaS project
++ 📱 Publish an Android & Flutter app to Play Store
++ 🧠 Master TensorFlow and deep learning
++ 👩🏽‍💻 Speak at a tech event
++ 🌟 Hit 1,000+ GitHub followers
+
+---
+
+🧠 Current Focus Areas
+🌐 Fullstack Development with Django, React, and Flutter
+
+🔐 Clean, scalable backend systems
+
+🤖 Machine Learning and Data Analysis
+
+☁️ Cloud (AWS) and API Integrations
+
+🧩 UI/UX design with Figma
 
 ---
 
@@ -35,6 +49,15 @@
 - 🍕 Pizza + Coding = 💯 Productivity
 
 ---
+
+
+💬 Jokes & Energy
+👀 Why do programmers prefer dark mode?
+Because light attracts bugs. 🐛
+
+🔁 I turn caffeine into code... and then into bugs... and then into features 💥
+
+ ---
 
 ## 💻 Tech Stack:
 
