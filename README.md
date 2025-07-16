@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Glo!
+👩‍💻 Hey there, I'm Glo — your friendly neighborhood bug whisperer 🐛✨
+Coffee-powered ☕, code-obsessed 💻 and currently in a committed relationship with my keyboard (don’t tell my IDE 😅). I turn caffeine into code, chaos into clean UIs and Stack Overflow tabs into solutions (most of the time).
 
 # 💫 About Me:
 🧠 Software Engineer | 🧩 Problem Solver | 💡 Tech Enthusiast  
