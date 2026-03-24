@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social / Profile Badges -->
-[![Profile Views](https://visitcount.itsvg.in/api?id=gloryakinyi&icon=6&color=9)](https://visitcount.itsvg.in)
+
 &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/akinyi_glory?logo=twitter&style=for-the-badge&color=6366f1&labelColor=0f0c29)](https://twitter.com/akinyi_glory)
 &nbsp;
